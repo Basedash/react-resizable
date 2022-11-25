@@ -1,5 +1,5 @@
 {
-  "name": "react-resizable",
+  "name": "@basedash/react-resizable",
   "version": "3.0.4",
   "description": "A component that is resizable with handles.",
   "main": "index.js",
@@ -19,14 +19,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:react-grid-layout/react-resizable.git"
+    "url": "git@github.com:Basedash/react-resizable.git"
   },
   "keywords": [
     "react",
     "resize",
     "resizable"
   ],
-  "author": "Samuel Reed <samuel.trace.reed@gmail.com> (http://strml.net/)",
+  "author": "Basedash",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/react-grid-layout/react-resizable/issues"
@@ -73,7 +73,6 @@
   },
   "pre-commit": [
     "lint",
-    "validate",
-    "test"
+    "validate"
   ]
 }
